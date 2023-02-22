@@ -5,6 +5,9 @@
     <url>/2023/02/22/hello-world-1/</url>
     <content><![CDATA[<p>现在开始了</p>
 ]]></content>
+      <categories>
+        <category>machine learning</category>
+      </categories>
   </entry>
   <entry>
     <title>Hello World</title>
